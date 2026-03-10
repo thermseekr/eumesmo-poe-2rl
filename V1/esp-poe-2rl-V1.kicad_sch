@@ -14401,6 +14401,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Tales:+3V3LAN")
+		(at 336.55 219.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "09234f77-98a2-4016-ae83-57bdb6ec5c1f")
+		(property "Reference" "#PWR042"
+			(at 336.55 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3LAN"
+			(at 336.55 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 336.55 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 336.55 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3LAN\""
+			(at 336.55 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d631a414-c863-41db-95d2-29f8a0b3cebc")
+		)
+		(instances
+			(project "esp-poe-2rl-V1"
+				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
+					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 242.57 38.1 0)
 		(unit 1)
@@ -20732,71 +20797,6 @@
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
 					(reference "R32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Tales:+3V3A")
-		(at 336.55 219.71 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8eff2c44-b34e-4118-8b74-77c110c2c46a")
-		(property "Reference" "#PWR042"
-			(at 336.55 223.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3A"
-			(at 336.55 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 336.55 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 336.55 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3A\""
-			(at 336.55 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e6cd75f5-20b9-4e99-82fc-f99a87829c6b")
-		)
-		(instances
-			(project "esp-poe-2rl-V1"
-				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a"
-					(reference "#PWR042")
 					(unit 1)
 				)
 			)
