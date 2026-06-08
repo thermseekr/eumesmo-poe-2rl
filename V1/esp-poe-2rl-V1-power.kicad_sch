@@ -5159,7 +5159,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Tales:L_3x3mm_h1.5mm"
+		(property "Footprint" "Tales:L_3x3mm_H1.5mm"
 			(at 102.87 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -6158,7 +6158,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Tales:L_12x12mm_h6mm"
+		(property "Footprint" "Tales:L_12x12mm_H6mm"
 			(at 101.6 96.52 0)
 			(hide yes)
 			(show_name no)
