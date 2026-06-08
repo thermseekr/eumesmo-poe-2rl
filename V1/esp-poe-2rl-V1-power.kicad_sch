@@ -4399,7 +4399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02fc9808-3cc5-4dd5-a9b5-7d67948d3163")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR069"
 			(at 44.45 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -4460,7 +4460,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR051")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -4478,7 +4478,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0efe5174-067e-4ef1-a8ef-354e1077288e")
-		(property "Reference" "R24"
+		(property "Reference" "R37"
 			(at 82.55 77.47 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4627,7 +4627,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R24")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -4644,7 +4644,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f077162-6ffa-4a99-a6df-0a898708c08d")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR056"
 			(at 113.03 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -4705,7 +4705,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR057")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -4722,7 +4722,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0fdea17c-2ad0-4edb-9a84-48083fbef01c")
-		(property "Reference" "C19"
+		(property "Reference" "C23"
 			(at 96.52 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4874,7 +4874,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C19")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -4892,7 +4892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18b382f9-7bea-4ea8-8220-a4728847269f")
-		(property "Reference" "R30"
+		(property "Reference" "R40"
 			(at 137.16 120.6499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5045,7 +5045,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R30")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -5062,7 +5062,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1bbec2f8-9459-4ce3-b6e0-a2aad469ce70")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR063"
 			(at 63.5 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -5122,7 +5122,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR053")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -5306,7 +5306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "204f71c7-90b3-4182-ae8d-39284af338d4")
-		(property "Reference" "C17"
+		(property "Reference" "C21"
 			(at 45.72 39.3762 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5459,7 +5459,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C17")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -5476,7 +5476,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21d01051-97c7-4845-84b4-efb87050e52c")
-		(property "Reference" "C25"
+		(property "Reference" "C27"
 			(at 149.86 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5628,7 +5628,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C25")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -5645,7 +5645,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "251aa048-d590-45fb-b8a2-f1526a3b96e1")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR061"
 			(at 153.67 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -5706,7 +5706,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR062")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -5723,7 +5723,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "278dddae-8242-426e-90d0-b0e03ad78dd2")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR066"
 			(at 147.32 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -5784,7 +5784,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR064")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -5802,7 +5802,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28bb7357-1c4b-4365-9740-ddf5b33a3c08")
-		(property "Reference" "D8"
+		(property "Reference" "D9"
 			(at 33.274 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5950,7 +5950,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "D8")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -5968,7 +5968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32bc98a7-e8ff-454b-8642-ef5a2f5add59")
-		(property "Reference" "R27"
+		(property "Reference" "R32"
 			(at 127 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6121,7 +6121,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R27")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -6305,7 +6305,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b5192df-89f1-46ac-89cd-427bc5df5343")
-		(property "Reference" "R31"
+		(property "Reference" "R35"
 			(at 160.02 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6457,7 +6457,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R31")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -6475,7 +6475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50b9126f-5c0e-48bb-b6a6-ec1fffb6eb06")
-		(property "Reference" "C20"
+		(property "Reference" "C26"
 			(at 109.22 153.0413 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6627,7 +6627,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C20")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -6644,7 +6644,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "541e6d3d-0e52-4d49-bbba-fc2d42c1f2c2")
-		(property "Reference" "U6"
+		(property "Reference" "U4"
 			(at 105.41 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6817,7 +6817,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "U6")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -6835,7 +6835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d9b252a-043f-4828-b96b-189cd7bef2fa")
-		(property "Reference" "C23"
+		(property "Reference" "C22"
 			(at 143.51 49.0981 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6987,7 +6987,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -7082,7 +7082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7daba644-a9c6-4ae3-818c-a314612b7462")
-		(property "Reference" "R21"
+		(property "Reference" "R33"
 			(at 63.5 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7236,7 +7236,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R21")
+					(reference "R33")
 					(unit 1)
 				)
 			)
@@ -7253,7 +7253,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85fef659-8797-4f87-8264-4e319df395c0")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR059"
 			(at 60.96 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -7314,7 +7314,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR052")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -7332,7 +7332,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "91b17b44-333a-4858-b104-a3b64aec7e33")
-		(property "Reference" "D11"
+		(property "Reference" "D8"
 			(at 80.01 103.251 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7484,7 +7484,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "D11")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -7501,7 +7501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a50e12a-d01e-43fa-8dc3-3789dd7c45b0")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR065"
 			(at 80.01 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -7562,7 +7562,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR056")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -7580,7 +7580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a883b56-0d75-45c3-aac8-855c2b60f5b8")
-		(property "Reference" "R22"
+		(property "Reference" "R31"
 			(at 77.47 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +7734,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R22")
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7751,7 +7751,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c8cb6b5-433e-44d4-a129-e778d4b0ea54")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR058"
 			(at 157.48 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -7812,7 +7812,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR065")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -7830,7 +7830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e111c2e-6eb5-4151-b6cf-e34e13676b00")
-		(property "Reference" "R29"
+		(property "Reference" "R39"
 			(at 137.16 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7983,7 +7983,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R29")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -8001,7 +8001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1dc314c-8fcf-4896-a9df-ff5d51a3d41f")
-		(property "Reference" "R25"
+		(property "Reference" "R41"
 			(at 121.92 154.305 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8153,7 +8153,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R25")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -8171,7 +8171,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a468722b-d225-4944-a72c-9105ee6d3b63")
-		(property "Reference" "R23"
+		(property "Reference" "R36"
 			(at 82.55 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8325,7 +8325,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R23")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -8343,7 +8343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5782d75-731a-4055-9487-7541026afe09")
-		(property "Reference" "R19"
+		(property "Reference" "R38"
 			(at 30.48 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8496,7 +8496,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R19")
+					(reference "R38")
 					(unit 1)
 				)
 			)
@@ -8514,7 +8514,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7505c04-1b3d-4c16-9273-dff84d9bd806")
-		(property "Reference" "R28"
+		(property "Reference" "R34"
 			(at 127 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8602,7 +8602,7 @@
 				)
 			)
 		)
-		(property "Mfr PN" "RC0402FR-0710KL"
+		(property "Mfr PN" "0402WGF1002TCE"
 			(at 124.46 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8635,7 +8635,7 @@
 				)
 			)
 		)
-		(property "Vendor PN" "C60490"
+		(property "Vendor PN" "C25744"
 			(at 127 57.785 0)
 			(hide yes)
 			(show_name no)
@@ -8667,7 +8667,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R28")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -8854,9 +8854,10 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "b3e3df1b-5d93-4639-9d1f-4abb68c68cea")
-		(property "Reference" "D10"
-			(at 46.99 184.15 90)
+		(property "Reference" "D11"
+			(at 46.99 182.8164 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8867,7 +8868,7 @@
 			)
 		)
 		(property "Value" "WHITE"
-			(at 46.99 186.69 90)
+			(at 46.99 185.3564 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8966,7 +8967,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2290"
-			(at 46.99 191.77 90)
+			(at 46.99 187.8964 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9018,7 +9019,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "D10")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -9036,7 +9037,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb43ac0a-394a-427b-9bbd-0655bc65b459")
-		(property "Reference" "R20"
+		(property "Reference" "R42"
 			(at 46.99 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9188,7 +9189,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R20")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -9206,7 +9207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be20273f-c029-4881-b9b6-ef1c6b55f1d1")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 60.96 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9376,7 +9377,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -9393,7 +9394,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "beb9919b-9a23-416b-96de-dc7e1b6dc0c4")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR062"
 			(at 134.62 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -9454,7 +9455,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR059")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -9471,7 +9472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c2bacf1d-ffea-4b83-8109-ba96bef996f0")
-		(property "Reference" "R26"
+		(property "Reference" "R43"
 			(at 121.92 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9623,7 +9624,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "R26")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -9640,7 +9641,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5a732af-b0c8-4a85-ac0a-845e399c8a35")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR060"
 			(at 77.47 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9701,7 +9702,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR055")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -9718,7 +9719,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c64dbb10-a1df-4166-9c53-b499f5a04b60")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR068"
 			(at 119.38 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -9779,7 +9780,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR058")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -9796,7 +9797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d03cd17b-d787-4b0a-b41d-f918b8e8fba2")
-		(property "Reference" "C21"
+		(property "Reference" "C24"
 			(at 118.11 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9948,7 +9949,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C21")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -9965,7 +9966,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d21b8113-54ff-4cb0-9f60-cd8de46c5070")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 80.01 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10123,7 +10124,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "U5")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -10140,7 +10141,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5891a77-d21c-4c31-8126-a8b38360761a")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR067"
 			(at 63.5 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -10201,7 +10202,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR054")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -10218,7 +10219,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dbd8f31f-c681-49ac-84de-a42aff960852")
-		(property "Reference" "C24"
+		(property "Reference" "C25"
 			(at 156.21 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10370,7 +10371,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C24")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -10388,7 +10389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd230aaa-6a96-4cd5-b4ca-0a625004eb89")
-		(property "Reference" "D9"
+		(property "Reference" "D10"
 			(at 33.274 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10536,7 +10537,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "D9")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -10553,7 +10554,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e05dbea9-beec-4d6c-925c-9966fe140c53")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR057"
 			(at 140.97 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -10614,7 +10615,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR061")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -10631,7 +10632,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed74a2cf-6367-4882-86ac-fd7bf682b7f5")
-		(property "Reference" "C18"
+		(property "Reference" "C28"
 			(at 66.04 161.925 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10783,7 +10784,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "C18")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -10800,7 +10801,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f447a1e0-2a5a-4940-b0a8-cd07680d2758")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 147.32 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -10860,7 +10861,7 @@
 		(instances
 			(project "esp-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
