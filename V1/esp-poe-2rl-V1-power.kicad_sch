@@ -926,7 +926,7 @@
 					)
 				)
 			)
-			(property "Sim.Pin" "1=K 2=A"
+			(property "Sim.Pins" "1=K 2=A"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3561,7 +3561,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 106.68) (xy 48.26 93.98)
+			(xy 48.26 107.95) (xy 48.26 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4101,7 +4101,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 106.68) (xy 48.26 106.68)
+			(xy 24.13 107.95) (xy 48.26 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4309,7 +4309,7 @@
 	)
 	(global_label "PG"
 		(shape input)
-		(at 43.18 106.68 180)
+		(at 24.13 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4319,7 +4319,7 @@
 		)
 		(uuid "e56c88de-bc3f-4d58-80e8-37f2b3053cf2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 37.7342 106.68 0)
+			(at 18.6842 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9000,6 +9000,17 @@
 			)
 		)
 		(property "Sim.Pin" "1=K 2=A"
+			(at 44.45 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
 			(at 44.45 185.42 0)
 			(hide yes)
 			(show_name no)

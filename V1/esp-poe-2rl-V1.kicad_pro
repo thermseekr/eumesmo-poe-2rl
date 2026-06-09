@@ -298,12 +298,8 @@
   "erc": {
     "erc_exclusions": [
       [
-        "lib_symbol_mismatch|292100|609600|d0cbfa53-6729-48a4-9f56-0611f02482af|00000000-0000-0000-0000-000000000000|||",
-        ""
-      ],
-      [
         "pin_not_driven|508000|939800|4bb6f1be-3916-402e-b901-f7d1039e271b|00000000-0000-0000-0000-000000000000|/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df|/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df|",
-        ""
+        "Pin 6-PG from the TPS2376 pulls the signal down when power is not good, and floats when power is good. For the TX4138 floating means enable, so everything is correct."
       ]
     ],
     "meta": {
@@ -989,6 +985,10 @@
     [
       "2ac7b96d-5459-407c-a3e3-5692241632df",
       "POWER"
+    ],
+    [
+      "774cc362-9cfe-4197-8571-7d1b1ef33e48",
+      "RELAY OUTPUTS"
     ]
   ],
   "text_variables": {},
