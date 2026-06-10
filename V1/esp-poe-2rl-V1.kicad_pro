@@ -81,7 +81,16 @@
           "width": 0.3
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "lib_footprint_mismatch|136237644|73640689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
+          "Footprint edited to fit the area available."
+        ],
+        [
+          "lib_footprint_mismatch|148250000|77500000|84d818c1-f4b6-4d0a-a606-a0aa86085785|00000000-0000-0000-0000-000000000000",
+          "Footprint edited to fit the area available."
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -297,6 +306,10 @@
   },
   "erc": {
     "erc_exclusions": [
+      [
+        "lib_symbol_mismatch|292100|609600|d0cbfa53-6729-48a4-9f56-0611f02482af|00000000-0000-0000-0000-000000000000|||",
+        "Pin order reajusted in the symbol for better schematic readability."
+      ],
       [
         "pin_not_driven|508000|939800|4bb6f1be-3916-402e-b901-f7d1039e271b|00000000-0000-0000-0000-000000000000|/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df|/2bc5a21a-1d79-419d-a592-6852cc07b00a/2ac7b96d-5459-407c-a3e3-5692241632df|",
         "Pin 6-PG from the TPS2376 pulls the signal down when power is not good, and floats when power is good. For the TX4138 floating means enable, so everything is correct."
