@@ -7,7 +7,7 @@ A case is also available for 3D printing.
 
 ## VERSION HISTORY
 
-ESP-POE-2RL V1.4 - 2026/06/10 - Terminal blocks replaced for 3.5mm pitch. Board decreased 8mm in length. LAN8710A rotated for shorter traces. Pull-up resistor for MDIO adjusted from 2.2k to 1.5k as suggested in the datasheet. Bulk and decoupling capacitor sizes and types adjusted for better performance.
+ESP-POE-2RL V1.4 - 2026/06/10 - Terminal blocks replaced for 3.5mm pitch. Board decreased 8mm in length. LAN8710A rotated for shorter traces. Pull-up resistor for MDIO adjusted from 2.2k to 1.5k as suggested in the datasheet. Bulk and decoupling capacitor sizes and types adjusted for better performance. Deleted temperature sensor.
 
 ESP-POE-2RL V1.3 - 2025/06/29 - Layers reordered and board fully rerouted for better signal integrity.
 
