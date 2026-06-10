@@ -5,15 +5,15 @@ A case is also available for 3D printing.
 
 ![alt text](https://github.com/thermseekr/esp-poe-2rl/blob/main/V1/esp-poe-2rl-V1.3.0.png "ESP-POE-2RL")
 
-![alt text](https://github.com/thermseekr/esp-poe-2rl/blob/main/V1/case-front.png "CASE")
-
 ## VERSION HISTORY
 
-ESP-POE-2RL V1.3 - Layers reordered and board fully rerouted for better signal integrity.
+ESP-POE-2RL V1.4 - 2026/06/10 - Terminal blocks replaced for 3.5mm pitch. Board decreased 8mm in length. LAN8710A rotated for shorter traces. Pull-up resistor for MDIO adjusted from 2.2k to 1.5k as suggested in the datasheet. Bulk and decoupling capacitor sizes and types adjusted for better performance.
 
-ESP-POE-2RL V1.2 - Connectors adjusted for best fitting the case.
+ESP-POE-2RL V1.3 - 2025/06/29 - Layers reordered and board fully rerouted for better signal integrity.
 
-ESP-POE-2RL V1.1 - Initial release.
+ESP-POE-2RL V1.2 - 2024/12/07 - Connectors adjusted for best fitting the case.
+
+ESP-POE-2RL V1.1 - 2024/11/29 - Initial release.
 
 ## LICENSE
 
