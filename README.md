@@ -3,7 +3,7 @@ ESP32 based board with PoE, temperature/humidity sensor, and two relays. To be u
 
 A case is also available for 3D printing.
 
-![alt text](https://github.com/thermseekr/esp-poe-2rl/blob/main/V1/esp-poe-2rl-V1.3.0.png "ESP-POE-2RL")
+![alt text](https://github.com/thermseekr/esp-poe-2rl/blob/main/V1/esp-poe-2rl-V1.4.0.png "ESP-POE-2RL")
 
 ## VERSION HISTORY
 
