@@ -36987,7 +36987,7 @@
 	)
 	(gr_rect
 		(start 135.75 113.5)
-		(end 147.25 115.25)
+		(end 146.25 115.25)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -37061,8 +37061,8 @@
 			(justify left)
 		)
 	)
-	(gr_text "V1.4.0 2026-06-10"
-		(at 136 115 0)
+	(gr_text "V1.4 2026-06-10"
+		(at 141 114.375 0)
 		(layer "F.SilkS")
 		(uuid "48b140e4-3a79-4e4a-85c2-cfbe1e86b03d")
 		(effects
@@ -37070,7 +37070,6 @@
 				(size 1 0.7)
 				(thickness 0.1)
 			)
-			(justify left bottom)
 		)
 	)
 	(gr_text "OUT1"
