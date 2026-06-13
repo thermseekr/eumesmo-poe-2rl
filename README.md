@@ -1,17 +1,19 @@
 # ESP-POE-2RL
-ESP32 based board with PoE, temperature/humidity sensor, and two relays. To be used for controlling loads that cannot be commanded from the main cabinet, like for example when you need a dry contact close to some equipment or appliance. The PoE power source avoids the need for additional cabling. In external control cabinets the temperature/humidity sensor will give an indication of the environment that can be adjusted switching a heater element of a fan.
+PoE powered ESP32 based board featuring two SPST NO relays. Ideal for access control, doors, isolated zones or for installing anywhere you need to click dry contacts near some equipment or appliance.
 
-![alt text](https://github.com/thermseekr/esp-poe-2rl/blob/main/V1/esp-poe-2rl-v1.4.png "ESP-POE-2RL")
+![eumesmo-poe-2rl V1.5](https://github.com/thermseekr/eumesmo-poe-2rl/blob/main/V1/eumesmo-poe-2rl-v1.5.png)
 
 ## VERSION HISTORY
 
-ESP-POE-2RL V1.4 - 2026/06/10 - Terminal blocks replaced for 3.5mm pitch. Deleted temperature sensor, board decreased 8mm in length. LAN8710A rotated for shorter traces. Pull-up resistor for MDIO adjusted from 2.2k to 1.5k as suggested in the datasheet. Bulk and decoupling capacitor sizes and types adjusted for better performance.
+V1.5 - 2026/06/13 - Repository renamed from ESP-POE-2RL to eumesmo-poe-2rl to align the design with the **eumesmo** line of building automation products.
 
-ESP-POE-2RL V1.3 - 2025/06/29 - Layers reordered and board fully rerouted for better signal integrity.
+V1.4 - 2026/06/10 - Terminal blocks replaced for 3.5mm pitch. Deleted temperature sensor, board decreased 8mm in length. LAN8710A rotated for shorter traces. Pull-up resistor for MDIO adjusted from 2.2k to 1.5k as suggested in the datasheet. Bulk and decoupling capacitor sizes and types adjusted for better performance.
 
-ESP-POE-2RL V1.2 - 2024/12/07 - Connectors adjusted for best fitting the case.
+V1.3 - 2025/06/29 - Layers reordered and board fully rerouted for better signal integrity.
 
-ESP-POE-2RL V1.1 - 2024/11/29 - Initial release.
+V1.2 - 2024/12/07 - Connectors adjusted for best fitting the case.
+
+V1.1 - 2024/11/29 - Initial release.
 
 ## LICENSE
 
