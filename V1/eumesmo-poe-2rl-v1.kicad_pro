@@ -84,11 +84,11 @@
       "drc_exclusions": [
         [
           "lib_footprint_mismatch|136237644|73640689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
-          "Footprint edited to fit the area available."
+          "Logo separated in two parts to fit the board."
         ],
         [
           "lib_footprint_mismatch|148250000|77500000|84d818c1-f4b6-4d0a-a606-a0aa86085785|00000000-0000-0000-0000-000000000000",
-          "Footprint edited to fit the area available."
+          "Logo separated in two parts to fit the board."
         ]
       ],
       "meta": {
@@ -285,7 +285,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "V1.4"
+      "sch_revision": "V1.5"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -544,7 +544,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "esp-poe-2rl-V1.kicad_pro",
+    "filename": "eumesmo-poe-2rl-v1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -982,8 +982,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "esp-poe-2rl-V1.kicad_sch",
-        "name": "esp-poe-2rl-V1",
+        "filename": "eumesmo-poe-2rl-V1.kicad_sch",
+        "name": "eumesmo-poe-2rl-V1",
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
@@ -993,7 +993,7 @@
   "sheets": [
     [
       "2bc5a21a-1d79-419d-a592-6852cc07b00a",
-      "esp-poe-2rl-V1"
+      "eumesmo-poe-2rl-V1"
     ],
     [
       "2ac7b96d-5459-407c-a3e3-5692241632df",

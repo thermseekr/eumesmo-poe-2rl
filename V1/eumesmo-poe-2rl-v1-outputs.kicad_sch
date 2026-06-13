@@ -5,7 +5,9 @@
 	(uuid "7bc6a840-2969-40b3-b36c-00d8d64387fe")
 	(paper "A4")
 	(title_block
-		(rev "V1.4")
+		(title "eumesmo 2x Relay Output Module with PoE")
+		(date "2026-06-13")
+		(rev "V1.5")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -2371,7 +2373,7 @@
 			(uuid "09f18ec2-9364-4d6e-93aa-b680d52763c3")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R21")
 					(unit 1)
@@ -2547,7 +2549,7 @@
 			(uuid "1ac717a0-e4cb-4f3f-8534-a3e0fae6b6f0")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "K2")
 					(unit 1)
@@ -2739,7 +2741,7 @@
 			(uuid "79d755ab-87b4-4d87-96f8-096af36cceae")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "D4")
 					(unit 1)
@@ -2931,7 +2933,7 @@
 			(uuid "bbf5e1f4-9c55-4a25-96a4-a36d464667da")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "D5")
 					(unit 1)
@@ -3123,7 +3125,7 @@
 			(uuid "1d3d32b9-bac7-4d7c-a5e4-b77a250d114e")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "D3")
 					(unit 1)
@@ -3201,7 +3203,7 @@
 			(uuid "a6b17b7e-880a-48a2-9f96-f9a8de92f198")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR055")
 					(unit 1)
@@ -3371,7 +3373,7 @@
 			(uuid "a5a9ec9a-9074-4304-8f11-a75229ba7c0e")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R23")
 					(unit 1)
@@ -3541,7 +3543,7 @@
 			(uuid "adcda718-b845-4327-bb22-f591ebb13427")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R27")
 					(unit 1)
@@ -3619,7 +3621,7 @@
 			(uuid "da5afcfd-86e7-488f-bdf4-a5f70789ffce")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR039")
 					(unit 1)
@@ -3789,7 +3791,7 @@
 			(uuid "ca2eb4ba-042f-4ddb-b642-53c0969ef15f")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "J2")
 					(unit 1)
@@ -3959,7 +3961,7 @@
 			(uuid "9a4edee1-bc9e-4d14-8529-3e89e1befe57")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R30")
 					(unit 1)
@@ -4154,7 +4156,7 @@
 			(uuid "97cf0306-7475-48e8-bc87-48cafbfada41")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "Q5")
 					(unit 1)
@@ -4232,7 +4234,7 @@
 			(uuid "1f7aa483-3f1b-4672-8a14-98cc48da5080")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR047")
 					(unit 1)
@@ -4310,7 +4312,7 @@
 			(uuid "aca58621-47ad-431d-a58c-47c7cec5a926")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR046")
 					(unit 1)
@@ -4480,7 +4482,7 @@
 			(uuid "b9e60136-91e3-4a0b-86c5-8eae9ea47f52")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "J4")
 					(unit 1)
@@ -4647,7 +4649,7 @@
 			(uuid "b1731149-1a06-4cd9-be14-619c780beff5")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R22")
 					(unit 1)
@@ -4725,7 +4727,7 @@
 			(uuid "c6d8aae0-0ff0-4d8c-a246-1bb55d07811b")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR044")
 					(unit 1)
@@ -4901,7 +4903,7 @@
 			(uuid "a63f31f8-ef4d-4801-96c9-dccc24f87e2d")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "K1")
 					(unit 1)
@@ -4979,7 +4981,7 @@
 			(uuid "2ed95fbb-c196-480f-8569-b04b3af036ae")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "#PWR054")
 					(unit 1)
@@ -5174,7 +5176,7 @@
 			(uuid "21ff4e1d-bb27-4537-a5c5-80a9f4e04259")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "Q2")
 					(unit 1)
@@ -5341,7 +5343,7 @@
 			(uuid "c64c0254-a6c3-4470-b829-8dbae1fbca0f")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "R29")
 					(unit 1)
@@ -5533,7 +5535,7 @@
 			(uuid "f2780e6d-4365-438e-8003-af5d56737588")
 		)
 		(instances
-			(project "esp-poe-2rl-V1"
+			(project "eumesmo-poe-2rl-V1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
 					(reference "D6")
 					(unit 1)
