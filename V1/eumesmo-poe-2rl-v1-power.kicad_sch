@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "eumesmo 2x Relay Output Module with PoE")
-		(date "2026-06-13")
+		(date "2026-06-17")
 		(rev "V1.5")
 	)
 	(lib_symbols

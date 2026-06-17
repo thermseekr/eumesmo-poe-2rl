@@ -84,11 +84,11 @@
       "drc_exclusions": [
         [
           "lib_footprint_mismatch|136237644|73640689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
-          "Logo separated in two parts to fit the board."
+          "Footprint edited to fit the area available."
         ],
         [
           "lib_footprint_mismatch|148250000|77500000|84d818c1-f4b6-4d0a-a606-a0aa86085785|00000000-0000-0000-0000-000000000000",
-          "Logo separated in two parts to fit the board."
+          "Footprint edited to fit the area available."
         ]
       ],
       "meta": {
