@@ -1661,16 +1661,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 62.23) (xy 182.88 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "170d0764-ebe4-4c4f-944b-6adc07435364")
-	)
-	(wire
-		(pts
 			(xy 166.37 77.47) (xy 166.37 80.01)
 		)
 		(stroke
@@ -1678,6 +1668,16 @@
 			(type default)
 		)
 		(uuid "198de0d3-5eb3-4270-8704-565aba0a0214")
+	)
+	(wire
+		(pts
+			(xy 180.34 57.15) (xy 182.88 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19e032a8-c121-4d27-9de3-3ee6c6908d60")
 	)
 	(wire
 		(pts
@@ -1741,7 +1741,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 124.46) (xy 180.34 106.68)
+			(xy 180.34 101.6) (xy 180.34 124.46)
 		)
 		(stroke
 			(width 0)
@@ -1931,16 +1931,6 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 106.68) (xy 182.88 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a35d19ad-78c1-4282-92e7-4f71c62f3352")
-	)
-	(wire
-		(pts
 			(xy 120.65 80.01) (xy 120.65 81.28)
 		)
 		(stroke
@@ -1961,7 +1951,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 80.01) (xy 180.34 62.23)
+			(xy 180.34 57.15) (xy 180.34 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2038,6 +2028,16 @@
 			(type default)
 		)
 		(uuid "db68c599-c8dd-4e43-9262-827b1c27d908")
+	)
+	(wire
+		(pts
+			(xy 180.34 101.6) (xy 182.88 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dddde993-e208-47bf-bf31-f29e20c9dc11")
 	)
 	(wire
 		(pts
@@ -2223,7 +2223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14d28969-ee63-436c-8aa6-c76fb26f1aba")
-		(property "Reference" "R21"
+		(property "Reference" "R39"
 			(at 123.19 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2375,7 +2375,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R21")
+					(reference "R39")
 					(unit 1)
 				)
 			)
@@ -2569,7 +2569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22c2c835-9286-4119-b496-825522eb47be")
-		(property "Reference" "D4"
+		(property "Reference" "D10"
 			(at 123.19 71.0564 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2743,7 +2743,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "D4")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -2761,7 +2761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23b60df4-953c-491f-9297-daf0829abe10")
-		(property "Reference" "D5"
+		(property "Reference" "D11"
 			(at 142.24 113.665 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2935,7 +2935,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "D5")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -2953,7 +2953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3df1fc0f-bb7c-4d9d-8355-5c16cf5b678a")
-		(property "Reference" "D3"
+		(property "Reference" "D9"
 			(at 142.24 69.215 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3127,7 +3127,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "D3")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -3144,7 +3144,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f010b71-8162-4903-ba06-704c7ab32fbd")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR070"
 			(at 90.17 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -3205,7 +3205,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR055")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -3223,7 +3223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43d4fcef-938b-4731-8767-91770a0b1759")
-		(property "Reference" "R23"
+		(property "Reference" "R41"
 			(at 92.71 89.535 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3375,7 +3375,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R23")
+					(reference "R41")
 					(unit 1)
 				)
 			)
@@ -3393,7 +3393,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a179e90-3ab5-4099-8d14-07ed71afe904")
-		(property "Reference" "R27"
+		(property "Reference" "R42"
 			(at 123.19 105.4099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3545,7 +3545,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R27")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -3563,7 +3563,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "516c682b-e894-4b6d-84c7-ce0a761fff5e")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR065"
 			(at 120.65 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3623,7 +3623,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR039")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -3631,7 +3631,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 187.96 59.69 0)
+		(at 187.96 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3641,8 +3641,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "694f3ff6-544d-4659-a2fa-c5744d80b3a4")
-		(property "Reference" "J2"
-			(at 190.5 57.785 0)
+		(property "Reference" "J3"
+			(at 190.5 55.245 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3653,7 +3653,7 @@
 			)
 		)
 		(property "Value" "250-202"
-			(at 190.5 60.325 0)
+			(at 190.5 57.785 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3664,7 +3664,7 @@
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Wago_250-202_1x02_P3.5mm_45Degree"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3675,7 +3675,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3686,7 +3686,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3697,7 +3697,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3708,7 +3708,7 @@
 			)
 		)
 		(property "Technology" "Spring Clamp"
-			(at 190.5 62.865 0)
+			(at 190.5 60.325 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3719,7 +3719,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2765061"
-			(at 190.5 65.405 0)
+			(at 190.5 62.865 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3730,7 +3730,7 @@
 			)
 		)
 		(property "Mfr" "Wago"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3741,7 +3741,7 @@
 			)
 		)
 		(property "Mfr PN" "250-202"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3752,7 +3752,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3763,7 +3763,7 @@
 			)
 		)
 		(property "Vendor PN" "C2765061"
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3774,7 +3774,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 187.96 59.69 0)
+			(at 187.96 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3793,7 +3793,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -3811,7 +3811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b134896-729f-48b6-b5cd-d2a28a7cc6f5")
-		(property "Reference" "R30"
+		(property "Reference" "R44"
 			(at 92.71 133.985 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3963,7 +3963,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R30")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -4176,7 +4176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74b666f7-4bd9-4bee-92f2-67d0574a8c8e")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR068"
 			(at 120.65 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -4236,7 +4236,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR047")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4253,7 +4253,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a152e67f-5c79-4a40-a397-283568c0bf2a")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR067"
 			(at 90.17 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4314,7 +4314,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR046")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -4322,7 +4322,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 187.96 104.14 0)
+		(at 187.96 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4333,7 +4333,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1ebd179-b251-4cf7-afc6-824f3d38f48f")
 		(property "Reference" "J4"
-			(at 190.5 102.235 0)
+			(at 190.5 99.695 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4344,7 +4344,7 @@
 			)
 		)
 		(property "Value" "250-202"
-			(at 190.5 104.775 0)
+			(at 190.5 102.235 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4355,7 +4355,7 @@
 			)
 		)
 		(property "Footprint" "Tales:TerminalBlock_Wago_250-202_1x02_P3.5mm_45Degree"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4366,7 +4366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4377,7 +4377,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4388,7 +4388,7 @@
 			)
 		)
 		(property "JLCPCB BOM" "1"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4399,7 +4399,7 @@
 			)
 		)
 		(property "Technology" "Spring Clamp"
-			(at 190.5 107.315 0)
+			(at 190.5 104.775 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4410,7 +4410,7 @@
 			)
 		)
 		(property "LCSC Part #" "C2765061"
-			(at 190.5 109.855 0)
+			(at 190.5 107.315 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4421,7 +4421,7 @@
 			)
 		)
 		(property "Mfr" "Wago"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4432,7 +4432,7 @@
 			)
 		)
 		(property "Mfr PN" "250-202"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4443,7 +4443,7 @@
 			)
 		)
 		(property "Vendor" "JLCPCB"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4454,7 +4454,7 @@
 			)
 		)
 		(property "Vendor PN" "C2765061"
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4465,7 +4465,7 @@
 			)
 		)
 		(property "Package" ""
-			(at 187.96 104.14 0)
+			(at 187.96 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4502,7 +4502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a266096f-282e-468a-9d02-b5b9d60a9729")
-		(property "Reference" "R22"
+		(property "Reference" "R40"
 			(at 99.06 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4651,7 +4651,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R22")
+					(reference "R40")
 					(unit 1)
 				)
 			)
@@ -4668,7 +4668,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a7e73b9f-1594-4eb3-9c06-f13b4f187159")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR066"
 			(at 120.65 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4729,7 +4729,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR044")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -4922,7 +4922,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b889a68f-253c-4263-be3b-900f3c5b2155")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR069"
 			(at 120.65 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -4983,7 +4983,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "#PWR054")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -5001,7 +5001,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c974d5ba-fefc-4f98-b1b5-e6b3d90ac19d")
-		(property "Reference" "Q2"
+		(property "Reference" "Q4"
 			(at 123.19 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5178,7 +5178,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "Q2")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -5196,7 +5196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f118bd61-d541-4633-9bc0-0ec6830196de")
-		(property "Reference" "R29"
+		(property "Reference" "R43"
 			(at 99.06 123.19 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5345,7 +5345,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "R29")
+					(reference "R43")
 					(unit 1)
 				)
 			)
@@ -5363,7 +5363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb4acf1f-a58a-4074-8f6f-dd61d16f4d3a")
-		(property "Reference" "D6"
+		(property "Reference" "D12"
 			(at 123.19 115.5064 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5537,7 +5537,7 @@
 		(instances
 			(project "eumesmo-poe-2rl-v1"
 				(path "/2bc5a21a-1d79-419d-a592-6852cc07b00a/774cc362-9cfe-4197-8571-7d1b1ef33e48"
-					(reference "D6")
+					(reference "D12")
 					(unit 1)
 				)
 			)

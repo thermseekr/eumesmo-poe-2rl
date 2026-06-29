@@ -83,12 +83,20 @@
       ],
       "drc_exclusions": [
         [
-          "lib_footprint_mismatch|136237644|73640689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
-          "Footprint edited to fit the area available."
+          "lib_footprint_mismatch|144987644|81390689|f4267478-2bc3-4cb0-a2c4-678cec7679af|00000000-0000-0000-0000-000000000000",
+          ""
         ],
         [
           "lib_footprint_mismatch|148250000|77500000|84d818c1-f4b6-4d0a-a606-a0aa86085785|00000000-0000-0000-0000-000000000000",
           "Footprint edited to fit the area available."
+        ],
+        [
+          "silk_overlap|109650000|101000000|3df477d7-e086-4b72-80fb-9faf5fdb901e|af80471b-523d-4d99-b1e0-5461c24ad5a6",
+          ""
+        ],
+        [
+          "silk_overlap|120400000|78500000|0c1d0c31-e56a-4d1a-bc48-f229c7773f4b|de7b333b-4e82-43fe-b65b-5f18c02e8c3f",
+          ""
         ]
       ],
       "meta": {
@@ -987,7 +995,7 @@
         "uuid": "2bc5a21a-1d79-419d-a592-6852cc07b00a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1-6,SW1,L1-3,K1-2,J1-4,#FLG1-5,Q1-5,#PWR1-70,D1-12,C1-28,R1-44",
     "variants": []
   },
   "sheets": [
